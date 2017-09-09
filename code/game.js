@@ -39,7 +39,7 @@ function game(canvas) {
 		"img/playerm.png",
 		"img/playerf.png",
 
-		"img/Croc.png",
+		"img/croc.png",
 		"img/Phoebe.png",
 		"img/Whale.png",
 		"img/Cat.png",
